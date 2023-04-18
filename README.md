@@ -18,5 +18,6 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagodalima00&theme=onedark&show_icons=true" width="500"/></p>
  </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)]
+<div align = "left">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark" width="500"/></p>
+ </div>
