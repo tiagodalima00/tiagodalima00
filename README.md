@@ -22,6 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalima00&count_private=true)](https://github.com/arribass/github-readme-stats)
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalima00&count_private=true)]
 
-[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00)](https://github.com/arribass/github-readme-stats)
+[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00)]
