@@ -1,4 +1,4 @@
-## ⚡ GitHub Repos
+## 📋  GitHub Repos
 
 ![total repos](https://img.shields.io/badge/total%20repos-07-green?logo=github&style=flat)
 ![private repos](https://img.shields.io/badge/private%20repos-05-red?logo=github&style=flat)
