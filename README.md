@@ -11,7 +11,7 @@
 
 ## ⚡ GitHub Stats
 <div align="left">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagodalima00&theme=onedark" alt="tiagodalima00" width="500"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagodalima00&theme=onedark&count_private=true" alt="tiagodalima00" width="500"/></p>
 </div>
 
 <div align = "left">
@@ -22,6 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalima00&count_private=true)]
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalima00&count_private=true)](https://github.com/arribass/github-readme-stats)
 
-[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00)]
+[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00)](https://github.com/arribass/github-readme-stats)
