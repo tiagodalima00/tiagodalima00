@@ -22,3 +22,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![tiagodalima00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodalima00&theme=onedark&show_icons=true)](https://github.com/tiagodalima00)
+
+---
+
+[![GitHub Profile Summary](https://raw.githubusercontent.com/tiagodalima00/tiagodalima00/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/tiagodalima00)
