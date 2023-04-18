@@ -1,0 +1,61 @@
+name: GitHub Stats Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa a ação todos os dias à meia-noite (UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2.4.4
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate stats card
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.TOKEN_STATUS }}
+          USERNAME: ${{ github.repository_owner }}
+          SHOW_RANK: true
+          SHOW_LINES_OF_CODE: true
+
+      - name: Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'github-action@users.noreply.github.com'
+          git add .
+          git commit -m 'Update stats card'
+          git push
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Upload stats card to img
+        uses: actions/upload-artifact@v2
+        with:
+          name: stats-card
+          path: ./README.md
+      - name: Get artifact URL
+        id: artifact
+        uses: dawidd6/action-download-artifact@v2.12.1
+        with:
+          name: stats-card
+      - name: Create shield
+        id: shields
+        uses: crazy-max/ghaction-github-shields@v2.4.0
+        with:
+          color: 'blue'
+          label: 'GitHub Stats'
+          message: ${{ steps.artifact.outputs.url }}
+      - name: Add shield to profile README
+        run: |
+          echo ${{ steps.shields.outputs.badge }} > badge.md
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -X PUT -d @badge.md https://api.github.com/repos/${{ github.repository }}/contents/badge.md
