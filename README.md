@@ -1,3 +1,6 @@
+![total repos](https://img.shields.io/badge/total%20repos-04-green?logo=github&style=flat)
+![private repos](https://img.shields.io/badge/private%20repos-03-red?logo=github&style=flat)
+
 ### Hi there 👋
 
 <!--
@@ -15,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![total repos](https://img.shields.io/badge/total%20repos-04-green?logo=github&style=flat)
-![private repos](https://img.shields.io/badge/private%20repos-03-red?logo=github&style=flat)
-
-
 ## ✨ Socials
 ![](https://komarev.com/ghpvc/?username=tiagodalima00&style=flat&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-lima-77bb7517b/)
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 <div align = "left">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagodalima00&theme=onedark&show_icons=true" width="500"/></p>
  </div>
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
