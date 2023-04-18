@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![total repos](https://img.shields.io/badge/total%20repos-04-green?logo=github&style=flat)
+![private repos](https://img.shields.io/badge/private%20repos-03-red?logo=github&style=flat)
+
 
 ## ✨ Socials
 ![](https://komarev.com/ghpvc/?username=tiagodalima00&style=flat&color=brightgreen)
@@ -30,8 +33,7 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagodalima00&theme=onedark&show_icons=true" width="500"/></p>
  </div>
 
-![total repos](https://img.shields.io/badge/total%20repos-10-green?logo=github&style=flat)
-![private repos](https://img.shields.io/badge/private%20repos-05-red?logo=github&style=flat)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodalima00&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
