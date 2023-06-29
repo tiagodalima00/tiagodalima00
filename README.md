@@ -1,7 +1,7 @@
 ## 📋  GitHub Repos
 
-![total repos](https://img.shields.io/badge/Total%20repos-07-green?logo=github&style=flat)
-![private repos](https://img.shields.io/badge/Private%20repos-05-red?logo=github&style=flat)
+![total repos](https://img.shields.io/badge/Total%20repos-08-green?logo=github&style=flat)
+![private repos](https://img.shields.io/badge/Private%20repos-06-red?logo=github&style=flat)
 
 ## ✨ Socials
 ![](https://komarev.com/ghpvc/?username=tiagodalima00&style=flat&color=brightgreen)
